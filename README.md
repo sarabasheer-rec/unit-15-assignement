@@ -1,5 +1,7 @@
-<img src="https://github.com/user-attachments/assets/8060bdbe-d389-4707-931e-a03513785b3a" width="100">
-
+<img src="https://github.com/user-attachments/assets/8060bdbe-d389-4707-931e-a03513785b3a" width="150">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8060bdbe-d389-4707-931e-a03513785b3a" />
+</p>
 # Unit-15-Assignement
 
 
