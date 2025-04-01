@@ -27,4 +27,4 @@
 [^3]: Reference on how to maintain business success.
 
 >[!CAUTION]
->This website is not responsible for determining the outcome of individual business decisions!
+>This website is not responsible for the possible unsatisfying outcome of your business decisions!
