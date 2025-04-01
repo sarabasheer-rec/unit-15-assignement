@@ -1,4 +1,5 @@
 # Unit-15-Assignement
+99dfde50fd9c34d6adee3b6c8f08199a0e37c9c4
 ## Business Opportunity TM
 [<img id="dimg_I9LGZ-n6I-CvhbIP5ZHvuAc_21" src="data:image/jpeg;base64,/9j…3EfwiuuWd/Pn3ER6PRWiTkz/9k=" class="YQ4gaf" height="198" style="object-position:center" width="255" alt="Resilient Business in Uncertain Times ..." data-atf="1" data-cmp="1" data-flt="1741083172698" data-csiid="I9LGZ-n6I-CvhbIP5ZHvuAc_23">]
 ### How to Create a Business [^1].
