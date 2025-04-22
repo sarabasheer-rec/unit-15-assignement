@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8060bdbe-d389-4707-931e-a03513785b3a" width="230">
 </p>
-# Empowering innovators, Building Careers.
+
+
 
 *The heart of our company lies in our groundbreaking technology which drives the success of our business. By incorporating cloud solutions, IoT, AI, machine learning, etc, we have developed a robust ecosystem that empowers our team to deliver exceptional results.*
 
