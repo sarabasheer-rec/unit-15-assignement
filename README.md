@@ -9,10 +9,10 @@
 
 <h3 align="center">Collaborate, Innovate, Succeed - Join US</h3>
 
-***Company Tech is a forward-thinking company dedicated to transforming the technology industry through the application of innovative technologies. Our mission is to solve real-world challenges by leveraging technology to enhance efficiency, streamline processes, and create lasting value for our customers and partners.***
+_Company Tech is a forward-thinking company dedicated to transforming the technology industry through the application of innovative technologies. Our mission is to solve real-world challenges by leveraging technology to enhance efficiency, streamline processes, and create lasting value for our customers and partners._
 [Learn more](image_url)
+
 <pre>
-  
 </pre>
 ### _WHY CHOOSE US?_ [^1].
 + Enhances the latest innovations.
